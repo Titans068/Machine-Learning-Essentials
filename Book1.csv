@@ -1,0 +1,15 @@
+First,UON,Good,Yes,Y
+First,UON,Good,No,Y
+Second,UON,Good,No,Y
+Second,UON,Good,Yes,Y
+Second,MOI,Good,No,Y
+Second,KU,Good,No,Y
+Second,KU,Good,No,N
+Second,UON,Good,No,N
+Pass,MOI,Bad,Yes,N
+Pass,UON,Bad,No,N
+Pass,KU,Good,No,N
+Pass,KU,Good,No,N
+First,KCAU,Good,Yes,Y
+Second,KCAU,Good,Yes,Y
+Second,KCAU,Bad,Yes,Y
